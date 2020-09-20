@@ -16,7 +16,95 @@
       "assets/img/room-3.png",
       "assets/img/room-4.png"
     ]
+  },
+  {
+    "number": "980",
+    "img": [
+      "assets/img/room-3.png",
+      "assets/img/room-1.png",
+      "assets/img/room-3.png",
+      "assets/img/room-4.png"
+    ]
+  },
+  {
+    "number": "856",
+    "img": [
+      "assets/img/room-4.png",
+      "assets/img/room-1.png",
+      "assets/img/room-3.png",
+      "assets/img/room-4.png"
+    ]
+  },
+  {
+    "number": "740",
+    "img": [
+      "assets/img/room-5.png",
+      "assets/img/room-1.png",
+      "assets/img/room-3.png",
+      "assets/img/room-4.png"
+    ]
+  },
+  {
+    "number": "982",
+    "img": [
+      "assets/img/room-6.png",
+      "assets/img/room-1.png",
+      "assets/img/room-3.png",
+      "assets/img/room-4.png"
+    ]
+  },
+  {
+    "number": "678",
+    "img": [
+      "assets/img/room-7.png",
+      "assets/img/room-1.png",
+      "assets/img/room-3.png",
+      "assets/img/room-4.png"
+    ]
+  },
+  {
+    "number": "450",
+    "img": [
+      "assets/img/room-8.png",
+      "assets/img/room-1.png",
+      "assets/img/room-3.png",
+      "assets/img/room-4.png"
+    ]
+  },
+  {
+    "number": "350",
+    "img": [
+      "assets/img/room-9.png",
+      "assets/img/room-1.png",
+      "assets/img/room-3.png",
+      "assets/img/room-4.png"
+    ]
+  },
+  {
+    "number": "666",
+    "img": [
+      "assets/img/room-10.png",
+      "assets/img/room-1.png",
+      "assets/img/room-3.png",
+      "assets/img/room-4.png"
+    ]
+  },
+  {
+    "number": "444",
+    "img": [
+      "assets/img/room-11.png",
+      "assets/img/room-1.png",
+      "assets/img/room-3.png",
+      "assets/img/room-4.png"
+    ]
+  },
+  {
+    "number": "352",
+    "img": [
+      "assets/img/room-12.png",
+      "assets/img/room-1.png",
+      "assets/img/room-3.png",
+      "assets/img/room-4.png"
+    ]
   }
-
-
 ]
