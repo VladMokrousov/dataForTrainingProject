@@ -9,7 +9,7 @@
     ],
     "number": "888",
     "isLux": "yes",
-    "pricePerDay": "9990",
+    "pricePerDay": "9 990",
     "starCount": "5",
     "reviewCount": "145"
   },
@@ -23,7 +23,7 @@
     ],
     "number": "840",
     "isLux": "no",
-    "pricePerDay": "9900",
+    "pricePerDay": "9 900",
     "starCount": "4",
     "reviewCount": "65"
   },
@@ -37,7 +37,7 @@
     ],
     "number": "980",
     "isLux": "yes",
-    "pricePerDay": "8500",
+    "pricePerDay": "8 500",
     "starCount": "3",
     "reviewCount": "35"
   },
@@ -51,7 +51,7 @@
     ],
     "number": "856",
     "isLux": "no",
-    "pricePerDay": "7300",
+    "pricePerDay": "7 300",
     "starCount": "5",
     "reviewCount": "19"
   },
@@ -65,7 +65,7 @@
     ],
     "number": "740",
     "isLux": "no",
-    "pricePerDay": "6000",
+    "pricePerDay": "6 000",
     "starCount": "4",
     "reviewCount": "44"
   },
@@ -79,7 +79,7 @@
     ],
     "number": "982",
     "isLux": "no",
-    "pricePerDay": "5800",
+    "pricePerDay": "5 800",
     "starCount": "3",
     "reviewCount": "56"
   },
@@ -93,7 +93,7 @@
     ],
     "number": "678",
     "isLux": "no",
-    "pricePerDay": "5500",
+    "pricePerDay": "5 500",
     "starCount": "5",
     "reviewCount": "45"
   },
@@ -107,7 +107,7 @@
     ],
     "number": "450",
     "isLux": "no",
-    "pricePerDay": "5300",
+    "pricePerDay": "5 300",
     "starCount": "4",
     "reviewCount": "39"
   },
@@ -121,7 +121,7 @@
     ],
     "number": "350",
     "isLux": "no",
-    "pricePerDay": "5000",
+    "pricePerDay": "5 000",
     "starCount": "3",
     "reviewCount": "77"
   },
@@ -135,7 +135,7 @@
     ],
     "number": "666",
     "isLux": "no",
-    "pricePerDay": "5000",
+    "pricePerDay": "5 000",
     "starCount": "5",
     "reviewCount": "25"
   },
@@ -149,7 +149,7 @@
     ],
     "number": "444",
     "isLux": "no",
-    "pricePerDay": "5000",
+    "pricePerDay": "5 000",
     "starCount": "3",
     "reviewCount": "15"
   },
@@ -163,7 +163,7 @@
     ],
     "number": "352",
     "isLux": "no",
-    "pricePerDay": "5000",
+    "pricePerDay": "5 000",
     "starCount": "3",
     "reviewCount": "55"
   }
