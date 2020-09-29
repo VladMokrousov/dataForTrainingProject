@@ -1,110 +1,170 @@
 [
   {
+    "withArrows": "yes",
+    "img": [
+      "assets/img/room-1.jpg",
+      "assets/img/room-2.jpg",
+      "assets/img/room-3.jpg",
+      "assets/img/room-4.jpg"
+    ],
     "number": "888",
-    "img": [
-      "assets/img/room-1.png",
-      "assets/img/room-2.png",
-      "assets/img/room-3.png",
-      "assets/img/room-4.png"
-    ]
+    "isLux": "yes",
+    "pricePerDay": "9990",
+    "starCount": "5",
+    "reviewCount": "145"
   },
   {
+    "withArrows": "no",
+    "img": [
+      "assets/img/room-2.jpg",
+      "assets/img/room-1.jpg",
+      "assets/img/room-3.jpg",
+      "assets/img/room-4.jpg"
+    ],
     "number": "840",
-    "img": [
-      "assets/img/room-2.png",
-      "assets/img/room-1.png",
-      "assets/img/room-3.png",
-      "assets/img/room-4.png"
-    ]
+    "isLux": "no",
+    "pricePerDay": "9900",
+    "starCount": "4",
+    "reviewCount": "65"
   },
   {
+    "withArrows": "no",
+    "img": [
+      "assets/img/room-3.jpg",
+      "assets/img/room-1.jpg",
+      "assets/img/room-3.jpg",
+      "assets/img/room-4.jpg"
+    ],
     "number": "980",
-    "img": [
-      "assets/img/room-3.png",
-      "assets/img/room-1.png",
-      "assets/img/room-3.png",
-      "assets/img/room-4.png"
-    ]
+    "isLux": "yes",
+    "pricePerDay": "8500",
+    "starCount": "3",
+    "reviewCount": "35"
   },
   {
+    "withArrows": "no",
+    "img": [
+      "assets/img/room-4.jpg",
+      "assets/img/room-1.jpg",
+      "assets/img/room-3.jpg",
+      "assets/img/room-4.jpg"
+    ],
     "number": "856",
-    "img": [
-      "assets/img/room-4.png",
-      "assets/img/room-1.png",
-      "assets/img/room-3.png",
-      "assets/img/room-4.png"
-    ]
+    "isLux": "no",
+    "pricePerDay": "7300",
+    "starCount": "5",
+    "reviewCount": "19"
   },
   {
+    "withArrows": "no",
+    "img": [
+      "assets/img/room-5.jpg",
+      "assets/img/room-1.jpg",
+      "assets/img/room-3.jpg",
+      "assets/img/room-4.jpg"
+    ],
     "number": "740",
-    "img": [
-      "assets/img/room-5.png",
-      "assets/img/room-1.png",
-      "assets/img/room-3.png",
-      "assets/img/room-4.png"
-    ]
+    "isLux": "no",
+    "pricePerDay": "6000",
+    "starCount": "4",
+    "reviewCount": "44"
   },
   {
+    "withArrows": "no",
+    "img": [
+      "assets/img/room-6.jpg",
+      "assets/img/room-1.jpg",
+      "assets/img/room-3.jpg",
+      "assets/img/room-4.jpg"
+    ],
     "number": "982",
-    "img": [
-      "assets/img/room-6.png",
-      "assets/img/room-1.png",
-      "assets/img/room-3.png",
-      "assets/img/room-4.png"
-    ]
+    "isLux": "no",
+    "pricePerDay": "5800",
+    "starCount": "3",
+    "reviewCount": "56"
   },
   {
+    "withArrows": "no",
+    "img": [
+      "assets/img/room-7.jpg",
+      "assets/img/room-1.jpg",
+      "assets/img/room-3.jpg",
+      "assets/img/room-4.jpg"
+    ],
     "number": "678",
-    "img": [
-      "assets/img/room-7.png",
-      "assets/img/room-1.png",
-      "assets/img/room-3.png",
-      "assets/img/room-4.png"
-    ]
+    "isLux": "no",
+    "pricePerDay": "5500",
+    "starCount": "5",
+    "reviewCount": "45"
   },
   {
+    "withArrows": "no",
+    "img": [
+      "assets/img/room-8.jpg",
+      "assets/img/room-1.jpg",
+      "assets/img/room-3.jpg",
+      "assets/img/room-4.jpg"
+    ],
     "number": "450",
-    "img": [
-      "assets/img/room-8.png",
-      "assets/img/room-1.png",
-      "assets/img/room-3.png",
-      "assets/img/room-4.png"
-    ]
+    "isLux": "no",
+    "pricePerDay": "5300",
+    "starCount": "4",
+    "reviewCount": "39"
   },
   {
+    "withArrows": "no",
+    "img": [
+      "assets/img/room-9.jpg",
+      "assets/img/room-1.jpg",
+      "assets/img/room-3.jpg",
+      "assets/img/room-4.jpg"
+    ],
     "number": "350",
-    "img": [
-      "assets/img/room-9.png",
-      "assets/img/room-1.png",
-      "assets/img/room-3.png",
-      "assets/img/room-4.png"
-    ]
+    "isLux": "no",
+    "pricePerDay": "5000",
+    "starCount": "3",
+    "reviewCount": "77"
   },
   {
+    "withArrows": "no",
+    "img": [
+      "assets/img/room-10.jpg",
+      "assets/img/room-1.jpg",
+      "assets/img/room-3.jpg",
+      "assets/img/room-4.jpg"
+    ],
     "number": "666",
-    "img": [
-      "assets/img/room-10.png",
-      "assets/img/room-1.png",
-      "assets/img/room-3.png",
-      "assets/img/room-4.png"
-    ]
+    "isLux": "no",
+    "pricePerDay": "5000",
+    "starCount": "5",
+    "reviewCount": "25"
   },
   {
+    "withArrows": "no",
+    "img": [
+      "assets/img/room-11.jpg",
+      "assets/img/room-1.jpg",
+      "assets/img/room-3.jpg",
+      "assets/img/room-4.jpg"
+    ],
     "number": "444",
-    "img": [
-      "assets/img/room-11.png",
-      "assets/img/room-1.png",
-      "assets/img/room-3.png",
-      "assets/img/room-4.png"
-    ]
+    "isLux": "no",
+    "pricePerDay": "5000",
+    "starCount": "3",
+    "reviewCount": "15"
   },
   {
-    "number": "352",
+    "withArrows": "no",
     "img": [
-      "assets/img/room-12.png",
-      "assets/img/room-1.png",
-      "assets/img/room-3.png",
-      "assets/img/room-4.png"
-    ]
+      "assets/img/room-12.jpg",
+      "assets/img/room-1.jpg",
+      "assets/img/room-3.jpg",
+      "assets/img/room-4.jpg"
+    ],
+    "number": "352",
+    "isLux": "no",
+    "pricePerDay": "5000",
+    "starCount": "3",
+    "reviewCount": "55"
   }
 ]
