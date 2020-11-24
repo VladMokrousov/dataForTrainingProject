@@ -12,12 +12,13 @@
         "type": "photo"
       },
       {
+        
         "image": {
-          "url": "https://photographers.ua/thumbnails/pictures/39002/800x16a.jpg",
-          "width": 1000,
-          "height": 685
+          "url": "https://cdn.fishki.net/upload/post/201405/03/1265959/giperrealism_painting_creativingnet_003.jpg",
+          "width": 1205,
+          "height": 1200
         },
-        "type": "photo"
+        "type": "painting"
       }
     ]
   },
@@ -27,41 +28,44 @@
     "answers": [
       {
         "image": {
-          "url": "https://cdn.fishki.net/upload/post/2016/06/16/1984243/b801a5e018cb664d28e9f25a12ae40f9.jpg",
-          "width": 880,
-          "height": 880
+          "url": "https://demiart.ru/forum/uploads10/post-49901-1341497565.jpg",
+          "width": 535,
+          "height": 800
         },
         "type": "painting"
       },
       {
         "image": {
-          "url": "https://cdn.photosight.ru/sight/2006/12/30/1844316.jpg",
-          "width": 800,
-          "height": 600
+          "url": "https://photo.boltai.com/wp-content/uploads/sites/11/2017/04/Beautiful-nature-beautiful-photos-Ross-Lipson-02.jpg",
+          "width": 820,
+          "height": 1024
         },
         "type": "photo"
       },
       {
         "image": {
-          "url": "https://cs8.pikabu.ru/post_img/big/2017/02/01/9/1485960206163666268.jpg",
-          "width": 1000,
-          "height": 992
+          "url": "https://i.pinimg.com/736x/19/a3/65/19a365c78e566aa849a211cf25487628--cola-ukraine.jpg",
+          "width": 607,
+          "height": 800
         },
         "type": "painting"
       }
     ]
   },
+  
   {
     "type": "tinder-like",
     "question": "Угадай, фото или рисунок?",
     "answers": [
       {
         "image": {
-          "url": "https://cdn.fishki.net/upload/post/201405/03/1265959/giperrealism_painting_creativingnet_003.jpg",
-          "width": 1205,
-          "height": 1200
+          "url": "https://photographers.ua/thumbnails/pictures/39002/800x16a.jpg",
+          "width": 1000,
+          "height": 685
+          
         },
-        "type": "painting"
+        
+        "type": "photo"
       }
     ]
   },
@@ -79,25 +83,26 @@
       }
     ]
   },
-  {
+ 
+    {
     "type": "two-of-two",
     "question": "Угадайте для каждого изображения фото или рисунок?",
     "answers": [
       {
         "image": {
-          "url": "https://artrue.ru/wp-content/uploads/2016/10/Richard-Estes_vitrina-1024x785.jpg",
-          "width": 1024,
-          "height": 785
+          "url": "https://cdn.fishki.net/upload/post/2016/06/16/1984243/b801a5e018cb664d28e9f25a12ae40f9.jpg",
+          "width": 880,
+          "height": 880
         },
         "type": "painting"
       },
       {
         "image": {
-          "url": "https://cdn.photosight.ru/img/c/9b4/2976186_large.jpeg",
-          "width": 902,
-          "height": 602
+          "url": "https://cs8.pikabu.ru/post_img/big/2017/02/01/9/1485960206163666268.jpg",
+          "width": 1000,
+          "height": 992
         },
-        "type": "photo"
+        "type": "painting"
       }
     ]
   },
@@ -107,11 +112,11 @@
     "answers": [
       {
         "image": {
-          "url": "https://izokurs.ru/assets/images/content/articles/307/izokurs-jason-de-graaf.jpg",
-          "width": 1200,
-          "height": 601
+          "url": "https://i.pinimg.com/736x/9e/2e/75/9e2e759a5c811f0692522f7eab5c4f61.jpg",
+          "width": 736,
+          "height": 736
         },
-        "type": "painting"
+        "type": "photo"
       },
       {
         "image": {
@@ -129,25 +134,25 @@
     "answers": [
       {
         "image": {
-          "url": "https://cdn.photosight.ru/img/b/0e7/3594621_large.jpg",
-          "width": 850,
-          "height": 587
+          "url": "https://i.pinimg.com/736x/37/fb/1c/37fb1ced60739fb90c68d66d72356104.jpg",
+          "width": 736,
+          "height": 920
         },
         "type": "photo"
       },
       {
         "image": {
-          "url": "https://cp14.nevsepic.com.ua/195/19404/1385132083-021.jpg",
-          "width": 1276,
-          "height": 849
+          "url": "https://i.pinimg.com/originals/b5/f2/dd/b5f2dd6f406c88fcbf3335a5d88d4374.jpg",
+          "width": 1187,
+          "height": 1600
         },
         "type": "painting"
       },
       {
         "image": {
-          "url": "https://avatars.mds.yandex.net/get-zen_doc/1916740/pub_5cfb8cc62d133400afd9e5b6_5cfccf7191dc1000af2bb3ce/scale_1200",
-          "width": 1200,
-          "height": 880
+          "url": "http://fototelegraf.ru/wp-content/uploads/2011/11/Paul-Cadden-fotorealisticcniye-kartiny-4.jpg",
+          "width": 721,
+          "height": 1087
         },
         "type": "painting"
       }
@@ -173,25 +178,25 @@
     "answers": [
       {
         "image": {
-          "url": "https://zagge.ru/wp-content/uploads/2017/08/Jason-18.jpg",
-          "width": 1200,
-          "height": 892
+          "url": "http://www.whiterockgallery.com/wp-content/uploads/2017/05/valleyfieldsatdusk-16x20-enlarged-Renato_Muccillo.jpg",
+          "width": 694,
+          "height": 875
         },
         "type": "painting"
       },
       {
         "image": {
-          "url": "https://www.neizvestniy-geniy.ru/images/works/photo/2015/03/1352903_1.jpg",
-          "width": 1500,
-          "height": 1000
+          "url": "https://cdn.vsyako.net/wp-content/uploads/2019/07/26fdb0e96db6810a64e3fd0f1a94535e.jpg",
+          "width": 1080,
+          "height": 1350
         },
         "type": "photo"
       },
       {
         "image": {
-          "url": "https://photonomy.ru/uploads/images/photos/Bi753yQ4XXhwHHt1RK2WZDXMDR1Bf4Fm.jpg",
-          "width": 1600,
-          "height": 864
+          "url": "https://i.pinimg.com/736x/f9/1e/59/f91e594f878134035c488442a0bf47d6--landscape-art-landscape-photos.jpg",
+          "width": 736,
+          "height": 1108
         },
         "type": "photo"
       }
