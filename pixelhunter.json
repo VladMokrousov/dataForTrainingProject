@@ -5,7 +5,8 @@
     "answers": [
       {
         "image": {
-          "url": "https://i.pinimg.com/736x/55/44/74/55447482a203af2cc41e4de72bbbfcc2.jpg",
+          
+          "url": "/assets/img/img-for-games/photo1.jpg",
           "width": 736,
           "height": 736
         },
@@ -14,7 +15,8 @@
       {
         
         "image": {
-          "url": "https://cdn.fishki.net/upload/post/201405/03/1265959/giperrealism_painting_creativingnet_003.jpg",
+          
+          "url": "/assets/img/img-for-games/painting1.jpg",
           "width": 1205,
           "height": 1200
         },
@@ -28,7 +30,7 @@
     "answers": [
       {
         "image": {
-          "url": "https://demiart.ru/forum/uploads10/post-49901-1341497565.jpg",
+          "url": "/assets/img/img-for-games/painting2.jpg",
           "width": 535,
           "height": 800
         },
@@ -36,7 +38,7 @@
       },
       {
         "image": {
-          "url": "https://photo.boltai.com/wp-content/uploads/sites/11/2017/04/Beautiful-nature-beautiful-photos-Ross-Lipson-02.jpg",
+          "url": "/assets/img/img-for-games/photo2.jpg",
           "width": 820,
           "height": 1024
         },
@@ -44,7 +46,7 @@
       },
       {
         "image": {
-          "url": "https://i.pinimg.com/736x/19/a3/65/19a365c78e566aa849a211cf25487628--cola-ukraine.jpg",
+          "url": "/assets/img/img-for-games/painting3.jpg",
           "width": 607,
           "height": 800
         },
@@ -59,7 +61,7 @@
     "answers": [
       {
         "image": {
-          "url": "https://photographers.ua/thumbnails/pictures/39002/800x16a.jpg",
+          "url": "/assets/img/img-for-games/photo3.jpg",
           "width": 1000,
           "height": 685
           
@@ -75,7 +77,7 @@
     "answers": [
       {
         "image": {
-          "url": "http://s1.fotokto.ru/photo/full/118/1189217.jpg",
+          "url": "/assets/img/img-for-games/photo4.jpg",
           "width": 1197,
           "height": 801
         },
