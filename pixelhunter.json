@@ -5,7 +5,7 @@
     "answers": [
       {
         "image": {
-          "url": "/assets/img/img-for-games/photo1.jpg",
+          "url": "assets/img/img-for-games/photo1.jpg",
           "width": 736,
           "height": 736
         },
@@ -13,7 +13,7 @@
       },
       {
         "image": {
-          "url": "/assets/img/img-for-games/painting1.jpg",
+          "url": "assets/img/img-for-games/painting1.jpg",
           "width": 1205,
           "height": 1200
         },
@@ -27,7 +27,7 @@
     "answers": [
       {
         "image": {
-          "url": "/assets/img/img-for-games/painting2.jpg",
+          "url": "assets/img/img-for-games/painting2.jpg",
           "width": 535,
           "height": 800
         },
@@ -35,7 +35,7 @@
       },
       {
         "image": {
-          "url": "/assets/img/img-for-games/photo2.jpg",
+          "url": "assets/img/img-for-games/photo2.jpg",
           "width": 820,
           "height": 1024
         },
@@ -43,7 +43,7 @@
       },
       {
         "image": {
-          "url": "/assets/img/img-for-games/painting3.jpg",
+          "url": "assets/img/img-for-games/painting3.jpg",
           "width": 607,
           "height": 800
         },
@@ -57,7 +57,7 @@
     "answers": [
       {
         "image": {
-          "url": "/assets/img/img-for-games/photo3.jpg",
+          "url": "assets/img/img-for-games/photo3.jpg",
           "width": 1000,
           "height": 685
         },
@@ -71,7 +71,7 @@
     "answers": [
       {
         "image": {
-          "url": "/assets/img/img-for-games/photo4.jpg",
+          "url": "assets/img/img-for-games/photo4.jpg",
           "width": 1197,
           "height": 801
         },
@@ -85,7 +85,7 @@
     "answers": [
       {
         "image": {
-          "url": "/assets/img/img-for-games/painting4.jpg",
+          "url": "assets/img/img-for-games/painting4.jpg",
           "width": 880,
           "height": 880
         },
@@ -93,7 +93,7 @@
       },
       {
         "image": {
-          "url": "/assets/img/img-for-games/painting5.jpg",
+          "url": "assets/img/img-for-games/painting5.jpg",
           "width": 1000,
           "height": 992
         },
@@ -107,7 +107,7 @@
     "answers": [
       {
         "image": {
-          "url": "/assets/img/img-for-games/photo5.jpg",
+          "url": "assets/img/img-for-games/photo5.jpg",
           "width": 736,
           "height": 736
         },
@@ -115,7 +115,7 @@
       },
       {
         "image": {
-          "url": "/assets/img/img-for-games/painting6.jpg",
+          "url": "assets/img/img-for-games/painting6.jpg",
           "width": 1206,
           "height": 1200
         },
@@ -129,7 +129,7 @@
     "answers": [
       {
         "image": {
-          "url": "/assets/img/img-for-games/photo6.jpg",
+          "url": "assets/img/img-for-games/photo6.jpg",
           "width": 736,
           "height": 920
         },
@@ -137,7 +137,7 @@
       },
       {
         "image": {
-          "url": "/assets/img/img-for-games/painting7.jpg",
+          "url": "assets/img/img-for-games/painting7.jpg",
           "width": 1187,
           "height": 1600
         },
@@ -145,7 +145,7 @@
       },
       {
         "image": {
-          "url": "/assets/img/img-for-games/painting8.jpg",
+          "url": "assets/img/img-for-games/painting8.jpg",
           "width": 721,
           "height": 1087
         },
@@ -159,7 +159,7 @@
     "answers": [
       {
         "image": {
-          "url": "/assets/img/img-for-games/painting9.jpg",
+          "url": "assets/img/img-for-games/painting9.jpg",
           "width": 1301,
           "height": 864
         },
@@ -173,7 +173,7 @@
     "answers": [
       {
         "image": {
-          "url": "/assets/img/img-for-games/painting10.jpg",
+          "url": "assets/img/img-for-games/painting10.jpg",
           "width": 694,
           "height": 875
         },
@@ -181,7 +181,7 @@
       },
       {
         "image": {
-          "url": "/assets/img/img-for-games/photo7.jpg",
+          "url": "assets/img/img-for-games/photo7.jpg",
           "width": 1080,
           "height": 1350
         },
@@ -189,7 +189,7 @@
       },
       {
         "image": {
-          "url": "/assets/img/img-for-games/photo8.jpg",
+          "url": "assets/img/img-for-games/photo8.jpg",
           "width": 736,
           "height": 1108
         },
@@ -203,7 +203,7 @@
     "answers": [
       {
         "image": {
-          "url": "/assets/img/img-for-games/painting11.jpg",
+          "url": "assets/img/img-for-games/painting11.jpg",
           "width": 1030,
           "height": 682
         },
