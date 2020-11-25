@@ -5,7 +5,6 @@
     "answers": [
       {
         "image": {
-          
           "url": "/assets/img/img-for-games/photo1.jpg",
           "width": 736,
           "height": 736
@@ -13,9 +12,7 @@
         "type": "photo"
       },
       {
-        
         "image": {
-          
           "url": "/assets/img/img-for-games/painting1.jpg",
           "width": 1205,
           "height": 1200
@@ -54,7 +51,6 @@
       }
     ]
   },
-  
   {
     "type": "tinder-like",
     "question": "Угадай, фото или рисунок?",
@@ -64,9 +60,7 @@
           "url": "/assets/img/img-for-games/photo3.jpg",
           "width": 1000,
           "height": 685
-          
         },
-        
         "type": "photo"
       }
     ]
@@ -85,14 +79,13 @@
       }
     ]
   },
- 
     {
     "type": "two-of-two",
     "question": "Угадайте для каждого изображения фото или рисунок?",
     "answers": [
       {
         "image": {
-          "url": "https://cdn.fishki.net/upload/post/2016/06/16/1984243/b801a5e018cb664d28e9f25a12ae40f9.jpg",
+          "url": "/assets/img/img-for-games/painting4.jpg",
           "width": 880,
           "height": 880
         },
@@ -100,7 +93,7 @@
       },
       {
         "image": {
-          "url": "https://cs8.pikabu.ru/post_img/big/2017/02/01/9/1485960206163666268.jpg",
+          "url": "/assets/img/img-for-games/painting5.jpg",
           "width": 1000,
           "height": 992
         },
@@ -114,7 +107,7 @@
     "answers": [
       {
         "image": {
-          "url": "https://i.pinimg.com/736x/9e/2e/75/9e2e759a5c811f0692522f7eab5c4f61.jpg",
+          "url": "/assets/img/img-for-games/photo5.jpg",
           "width": 736,
           "height": 736
         },
@@ -122,7 +115,7 @@
       },
       {
         "image": {
-          "url": "https://cdn.fishki.net/upload/post/201405/03/1265959/giperrealism_painting_creativingnet_002.jpg",
+          "url": "/assets/img/img-for-games/painting6.jpg",
           "width": 1206,
           "height": 1200
         },
@@ -136,7 +129,7 @@
     "answers": [
       {
         "image": {
-          "url": "https://i.pinimg.com/736x/37/fb/1c/37fb1ced60739fb90c68d66d72356104.jpg",
+          "url": "/assets/img/img-for-games/photo6.jpg",
           "width": 736,
           "height": 920
         },
@@ -144,7 +137,7 @@
       },
       {
         "image": {
-          "url": "https://i.pinimg.com/originals/b5/f2/dd/b5f2dd6f406c88fcbf3335a5d88d4374.jpg",
+          "url": "/assets/img/img-for-games/painting7.jpg",
           "width": 1187,
           "height": 1600
         },
@@ -152,7 +145,7 @@
       },
       {
         "image": {
-          "url": "http://fototelegraf.ru/wp-content/uploads/2011/11/Paul-Cadden-fotorealisticcniye-kartiny-4.jpg",
+          "url": "/assets/img/img-for-games/painting8.jpg",
           "width": 721,
           "height": 1087
         },
@@ -166,7 +159,7 @@
     "answers": [
       {
         "image": {
-          "url": "http://www.hayatinanlaminedir.com/resimler/2015/01/Bryan-Drury-Hiperrealist-28.jpg",
+          "url": "/assets/img/img-for-games/painting9.jpg",
           "width": 1301,
           "height": 864
         },
@@ -180,7 +173,7 @@
     "answers": [
       {
         "image": {
-          "url": "http://www.whiterockgallery.com/wp-content/uploads/2017/05/valleyfieldsatdusk-16x20-enlarged-Renato_Muccillo.jpg",
+          "url": "/assets/img/img-for-games/painting10.jpg",
           "width": 694,
           "height": 875
         },
@@ -188,7 +181,7 @@
       },
       {
         "image": {
-          "url": "https://cdn.vsyako.net/wp-content/uploads/2019/07/26fdb0e96db6810a64e3fd0f1a94535e.jpg",
+          "url": "/assets/img/img-for-games/photo7.jpg",
           "width": 1080,
           "height": 1350
         },
@@ -196,7 +189,7 @@
       },
       {
         "image": {
-          "url": "https://i.pinimg.com/736x/f9/1e/59/f91e594f878134035c488442a0bf47d6--landscape-art-landscape-photos.jpg",
+          "url": "/assets/img/img-for-games/photo8.jpg",
           "width": 736,
           "height": 1108
         },
@@ -210,7 +203,7 @@
     "answers": [
       {
         "image": {
-          "url": "https://i0.wp.com/img-fotki.yandex.ru/get/61266/137106206.7a3/0_2024f2_526d5d3_orig.jpg",
+          "url": "/assets/img/img-for-games/painting11.jpg",
           "width": 1030,
           "height": 682
         },
