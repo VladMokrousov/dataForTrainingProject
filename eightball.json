@@ -20,7 +20,7 @@
     "ideaDescription": "Проводи аудит сайтов с точки зрения юзабилити"
   },
   {
-    "ideaDescription": "Скупай и перепродавать электронику, которую возвращают в магазин"
+    "ideaDescription": "Скупай и перепродавай электронику, которую возвращают в магазин"
   },
   {
     "ideaDescription": "Вживляй NFC под кожу. Сейчас некоторые компании продают чип с инструкцией по вживлению, и покупателю приходится это делать самостоятельно"
@@ -70,15 +70,43 @@
   {
     "ideaDescription": "Черпай идеи на площадках вроде ",
     "linkText": "этой",
-    "link": "ссылка на продукт хант"
+    "link": "https://www.producthunt.com/"
 
   },
   {
     "ideaDescription": "Изучай идеи на платформах, где можно получить финансирование. Например, ",
     "linkText": "тут",
-    "link": "ссылка на кикстартер" 
+    "link": "https://www.indiegogo.com/" 
   },
   {
     "ideaDescription": "Гугли что-то вроде request for startap и проверяй, есть ли на это спрос"
+  },
+  {
+    "ideaDescription": "Покупай домен с доменной зоной своей страны до того, как корпорация на нее выйдет"
+  },
+  {
+    "ideaDescription": "Открой кафе с необычной стилистикой. В качестве стилистики можно выбрать легендарный фильм, серию игр или же менять интерьер время от времени. На пример необычного кафе можно глянуть ",
+    "linkText": "тут",
+    "link": "https://cafe2d.ru/" 
+  },
+  {
+    "ideaDescription": "Добавь хайповому предмету технологичности. Например, парни сделали ",
+    "linkText": "высокотехнологичный спиннер",
+    "link": "https://zen.yandex.ru/media/id/5fc8b1d6cf00cc5a807e57a5/startapery-prokachali-spinner-i-sobrali-87-mln-rublei-5fd25c88ffa0ae7709aec0cb" 
+  },
+  {
+    "ideaDescription": "Ты можешь получить инвестиции даже под странную идею, если она основана на общемировой тенденции. ",
+    "linkText": "Пример",
+    "link": "https://zen.yandex.ru/media/id/5fc8b1d6cf00cc5a807e57a5/startap-kotoryi-prizvan-oblegchit-rabotu-na-udalenke-5fd4c23e9480ec78dcad7c45" 
+  },
+  {
+    "ideaDescription": "Сыграй на первичных человеческих потребностях и желаниях. Ребята, к примеру, придумали способ усилить вкус еды. Подробности ",
+    "linkText": "здесь",
+    "link": "https://zen.yandex.ru/media/id/5fc8b1d6cf00cc5a807e57a5/otec-i-syn-osnovali-startap-po-proizvodstvu-neobychnyh-lojek-5fd644599480ec78dc5d6581" 
+  },
+  {
+    "ideaDescription": "Сейчас многие задумываются о цифровой безопасности, конфиденциальности. Если найдешь способ дать это людям - будешь в плюсе. Вот ",
+    "linkText": "пример",
+    "link": "https://zen.yandex.ru/media/id/5fc8b1d6cf00cc5a807e57a5/epoha-google-disk-podhodit-k-koncu-startap-razrabotal-ponastoiascemu-bezopasnoe-oblachnoe-hranilisce-5fd89e0d1c5dc11652d76fe5" 
   }
 ]
